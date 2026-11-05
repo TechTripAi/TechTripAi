@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TechTripAi/techtrip-secondbrain/main/img/FellowshipOfTheAgents.png" alt="Fellowship of the Agents" width="600">
+</p>
+
 # TechTrip.AI
 
 AI tooling for people who build with Claude Code: a second brain on Obsidian, a plugin marketplace, and the small tools around them.
