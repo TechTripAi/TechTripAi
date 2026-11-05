@@ -1,10 +1,12 @@
+# TechTrip.AI
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/TechTripAi/techtrip-secondbrain/main/img/FellowshipOfTheAgents.png" alt="Fellowship of the Agents" width="600">
 </p>
 
-# TechTrip.AI
+Engineering and IT tooling for working with an AI partner, built to run on any agent harness: Claude Code, Copilot CLI, Cursor, Codex, and anything that reads a `SKILL.md`.
 
-AI tooling for people who build with Claude Code: a second brain on Obsidian, a plugin marketplace, and the small tools around them.
+Guided development workflows that plan and ship one story at a time, enforce the rules with hooks rather than hope, and keep every bit of state in the workspace so the work can resume from any tool, any machine, or any engineer. Alongside them: a second brain that files itself, and one catalog to install it all from.
 
 **Terry Trippany** · President & Owner, Try AI Solutions, Inc. · VP of Engineering & Technology, Creospan
 
