@@ -1,9 +1,5 @@
 # TechTrip.AI
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TechTripAi/techtrip-secondbrain/main/img/FellowshipOfTheAgents.png" alt="Fellowship of the Agents" width="600">
-</p>
-
 Engineering and IT tooling for working with an AI partner, built to run on any agent harness: Claude Code, Copilot CLI, Cursor, Codex, and anything that reads a `SKILL.md`.
 
 Guided development workflows that plan and ship one story at a time, enforce the rules with hooks rather than hope, and keep every bit of state in the workspace so the work can resume from any tool, any machine, or any engineer. Alongside them: a self-organizing, AI-driven wiki in Obsidian, built on the LLM Wiki pattern, that ingests whatever you feed it, answers from what it has read with citations, keeps itself linted, and gives you a place to research topics, originate new ideas, and run agentic workflows from any harness. One catalog installs it all.
